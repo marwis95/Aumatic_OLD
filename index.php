@@ -11,7 +11,6 @@ $palmpre = strpos($_SERVER['HTTP_USER_AGENT'],"webOS");
 $berry = strpos($_SERVER['HTTP_USER_AGENT'],"BlackBerry");
 $ipod = strpos($_SERVER['HTTP_USER_AGENT'],"iPod");
 $symbian = strpos($_SERVER['HTTP_USER_AGENT'],"SymbianOS");
-
 if ($iphone || $android || $palmpre || $ipod || $berry || $symbian == true){
 echo "<script>window.location='http://m.aumatic.pl'</script>";
 }
@@ -40,7 +39,6 @@ plc, sps, hmi, siemens, simatic,
 s7-200, s7-300, s7-400, s7-1200, s7-1500, allen-bradley,
 micrologix, compactlogix, slc500, controllogix, fanuc,
 rexroth, labview, solidworks, inventor, Kinetix, Simotion
-
 ">
 
 <meta http-equiv="Content-Type" content="text/html; charset=windows-1250">
@@ -83,13 +81,7 @@ rexroth, labview, solidworks, inventor, Kinetix, Simotion
 
 <!---------------DIV BANNER POCZATEK------------------->
 <div id="top">
-
-
-
-
 <div class="div_banner" style="background: url('banner.png')">
-
-
 <div class="flagi" >
 <a href="index.php" ><img src="grafika/flags/pl.png"></a>
 <a href="index_gb.html"><img src="grafika/flags/gb.png"></a>
@@ -98,17 +90,14 @@ rexroth, labview, solidworks, inventor, Kinetix, Simotion
 <a href="index_es.html"><img src="grafika/flags/es.png"></a>
 </div>
 
-<img src="grafika/unia/unia.jpg" class="unia">
+<a href="pl/unia.html"><img src="grafika/unia/unia.jpg" class="unia"></a>
 <img src="grafika/flags/iso.png" class="iso_banner">
-
 
 <div class="automatyka">
 <div class="automatyka_przemyslowa">Automatyka przemysłowa</div>
 <div class="maszyny_montazowe">Maszyny montażowe, testowe i pomiarowe dla przemysłu</div>
 </div>
-
 </div>
-
 <!--<img src="grafika/tuv.png" style="width: 200px; float:right; position:relative; bottom: 190px;">-->
 
 </div>
@@ -141,7 +130,6 @@ rexroth, labview, solidworks, inventor, Kinetix, Simotion
 
 </div>
 <!------------------------------------------BUTTON BAR KONIEC----------------------------------------------------->
-
 <!------------------------------------------CONTAINER POCZATEK---------------------------------------------------->
 <div id="bottom" style="opacity: 0.8;">
 
@@ -229,8 +217,6 @@ alt="thumb-1" width="332" height="468"/></a>
 <br>
 </div>
 <!-------------------------------------------CONTAINER KONIEC----------------------------------------------------->
-
-
 <?
 if(file_exists("counter.n")) {
  //Sprawdza czy plik istnieje
@@ -250,22 +236,17 @@ $ile++;
 $plik_ip = fopen('ip.txt','r');
 $ip = $_SERVER['REMOTE_ADDR'];
 $data = date('Y-m-d H:i:s');
-
-
 $data = $data."; ";
 $ip = $ip."\r\n";
  
-
 $plik_ip = fopen('ip.txt','a'); 
 fputs($plik_ip, $data); 
 fclose($plik_ip);
-
 $plik_ip = fopen('ip.txt','a'); 
 fputs($plik_ip, $ip); 
 fclose($plik_ip); 
  
  
-
 $jezyk = substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 5);
  
  
@@ -284,29 +265,20 @@ $ile=1; //jeśli plik nie istnieje, wyświetli się 1
  
 //echo($ile); //Wyświetla wartość
 ?>
-
 <!----------------------------------------OBSLUGA LICZNIKA------------------------------------------->
-
 <div class="footer" >
-
 <div style=" height:50px;">
 Aumatic sp. z o.o.<br>
 ul. Piłsudskiego 22, 32-050 Skawina, Polska / Poland<br>
 tel: +48 (12) 256-77-90 fax: +48 (12) 276-31-58<br>
 </div>
-
-
-
 </div>
-
 	<script src="js/jquery-1.10.2.min.js"></script>
 	<script src="js/lightbox-2.6.min.js"></script>
-
 	<script>
 	var _gaq = _gaq || [];
 	_gaq.push(['_setAccount', 'UA-2196019-1']);
 	_gaq.push(['_trackPageview']);
-
 	(function() {
 		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
 		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
