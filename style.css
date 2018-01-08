@@ -1,0 +1,54 @@
+* {margin:0 auto;padding:0;}
+
+body {padding:0px; background-attachment: fixed;  font-weight: lighter; font-family:arial;}
+
+#top {background: #ccc;  height: 278px; background: url('grafika/tlo.png') ;}
+
+#menu {background:#111; color: #fff; height: 50px; width: 100%; background: url('tlo_tvn.png');}
+
+#bottom {background: #364572; min-height:430px; width:950px; opacity:1;  padding-left:10px;  padding-right:10px;}
+
+.footer {background: url('stopka_gradient.png'); margin: 0 auto; padding: 10; width:950px; height:70px; text-align:center;}
+
+.fixed {position: fixed; top:0; left:0px; opacity: 0.9; z-index:1;}
+
+.static {position: static;}
+
+#menu ul {list-style-type: none; margin: 0 auto; padding: 0px; width: 970px} 
+
+#menu li {font-size:20px; padding: 4px; border-left:1px solid black; display: table-cell; width: 10em; height: 40px; font-family: Segoe UI;}
+
+#menu li:hover {background-color:#01243e; }
+
+a:link {text-decoration:none; color: #c8d7ec;}
+
+a:visited {text-decoration:none; color: #c8d7ec;}
+
+a:hover{text-decoration:none; color: #c8d7ec;}
+
+.flagi a:hover {color:#FFFFFF; border-bottom:2px solid #000000; font-size:24px;}
+
+.flagi {list-style:none; width:200px; height:50px; float:left; text-align:center;  vertical-align: middle; margin:0 auto; padding-top:10px;}
+
+.div_banner{background-color:#ffffff; width:970px; height:287px;}
+
+.iso_banner{width:128px; height: 128px; position: relative; left: -230px; bottom:-130px;}
+
+.automatyka{text-align: right; color: #f0f0f0; font-family: Segoe UI; position: relative;  bottom:45px;}
+
+.automatyka_2{text-align: right; color: #f0f0f0; position: relative; left: -230px; bottom:-130px;}
+
+/*.automatyka {width:870px; height: 130px; position: relative; left: 115px; bottom:0px; color: #f0f0f0;}*/
+
+.automatyka_przemyslowa{font-size: 75px;}
+
+.maszyny_montazowe{font-size: 30px;}
+
+.txt1{color:#FFFFFF; font-family:arial; text-align:justify;}
+
+.txt2{color:#FFFFFF; font-family:arial; font-size: 15px;}
+
+.litera{color:#FFFFFF; font-family:arial; font-size: 40px;}
+
+ul{margin-left: 20px;}
+
