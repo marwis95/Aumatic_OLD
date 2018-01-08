@@ -84,6 +84,9 @@ rexroth, labview, solidworks, inventor, Kinetix, Simotion
 <!---------------DIV BANNER POCZATEK------------------->
 <div id="top">
 
+
+
+
 <div class="div_banner" style="background: url('banner.png')">
 
 
@@ -95,7 +98,7 @@ rexroth, labview, solidworks, inventor, Kinetix, Simotion
 <a href="index_es.html"><img src="grafika/flags/es.png"></a>
 </div>
 
-
+<img src="grafika/unia/unia.jpg" class="unia">
 <img src="grafika/flags/iso.png" class="iso_banner">
 
 
@@ -134,7 +137,7 @@ rexroth, labview, solidworks, inventor, Kinetix, Simotion
 
 </center>
 
-<img src="grafika/unia.jpg" style="width:100px; position:relative; top: -40px; right: 0px">
+
 
 </div>
 <!------------------------------------------BUTTON BAR KONIEC----------------------------------------------------->
