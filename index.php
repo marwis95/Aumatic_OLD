@@ -117,6 +117,8 @@ rexroth, labview, solidworks, inventor, Kinetix, Simotion
 
 <!------------------------------------------BUTTON BAR POCZATEK---------------------------------------------------->
 <div id="menu" class="static">
+
+
 <center>
 
  <ul style="width: 970px">
@@ -132,7 +134,7 @@ rexroth, labview, solidworks, inventor, Kinetix, Simotion
 
 </center>
 
-
+<img src="grafika/unia.jpg" style="width:100px; position:relative; top: -40px; right: 0px">
 
 </div>
 <!------------------------------------------BUTTON BAR KONIEC----------------------------------------------------->
