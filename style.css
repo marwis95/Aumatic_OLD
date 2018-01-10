@@ -32,9 +32,11 @@ a:hover{text-decoration:none; color: #c8d7ec;}
 
 .div_banner{background-color:#ffffff; width:970px; height:287px;}
 
-.unia{background-color:#ffffff; width:100px; height:75px; float: left; left: -23%; top: 80px; position: relative; z-index:1}
+.unia{background-color:#ffffff; width:100px; height:75px; float: left; left: -23%; top: 80px; position: relative; z-index:1} 
 
-.iso_banner{width:100px; height: 100px; position: relative; left: -325px; bottom:-160px;}
+.iso_banner_unia{width:100px; height: 100px; position: relative; left: -325px; bottom:-160px;}
+
+.iso_banner{width:100px; height: 100px; position: relative; left: -225px; bottom:-160px;}
 
 .automatyka{text-align: right; color: #f0f0f0; font-family: Segoe UI; position: relative;  bottom:15px;}
 

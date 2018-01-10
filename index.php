@@ -90,8 +90,8 @@ rexroth, labview, solidworks, inventor, Kinetix, Simotion
 <a href="index_es.html"><img src="grafika/flags/es.png"></a>
 </div>
 
-<a href="pl/unia.html"><img src="grafika/unia/unia.jpg" class="unia"></a>
-<img src="grafika/flags/iso.png" class="iso_banner">
+<a href="PL/unia.html"><img src="grafika/unia/unia.jpg" class="unia"></a>
+<img src="grafika/flags/iso.png" class="iso_banner_unia">
 
 <div class="automatyka">
 <div class="automatyka_przemyslowa">Automatyka przemys³owa</div>
@@ -257,11 +257,11 @@ $jezyk = substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 5);
 $ile=1; //jeœli plik nie istnieje, wyœwietli siê 1
 }
  
- $file=fopen("counter.n", "w"); // otwiera plik do zapisu
-  flock($file, 2); // blokuje do zapisu
-   fwrite($file, $ile); //zapisuje wartoœæ
-  flock($file, 3); // odblokowuje plik
- fclose($file); //zamyka plik
+ //$file=fopen("counter.n", "w"); // otwiera plik do zapisu
+  //flock($file, 2); // blokuje do zapisu
+   //fwrite($file, $ile); //zapisuje wartoœæ
+  //flock($file, 3); // odblokowuje plik
+// fclose($file); //zamyka plik
  
 //echo($ile); //Wyœwietla wartoœæ
 ?>
