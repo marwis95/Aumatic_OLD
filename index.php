@@ -239,12 +239,7 @@ $data = date('Y-m-d H:i:s');
 $data = $data."; ";
 $ip = $ip."\r\n";
  
-$plik_ip = fopen('ip.txt','a'); 
-fputs($plik_ip, $data); 
-fclose($plik_ip);
-$plik_ip = fopen('ip.txt','a'); 
-fputs($plik_ip, $ip); 
-fclose($plik_ip); 
+
  
  
 $jezyk = substr($_SERVER['HTTP_ACCEPT_LANGUAGE'], 0, 5);
