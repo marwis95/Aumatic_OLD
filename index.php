@@ -158,15 +158,12 @@ na bazie standardowych PLC lub PC w œrodowisku NI LabView, NI LabWindows™/CVI lu
 <p style="text-indent: 8% ; margin-top: 0px; margin-bottom: 12px; line-spacing:single"> 
 Dodatkowo proponujemy Pañstwu ofertê w³asnych systemów Traceability wspó³pracuj¹cych z maszynami i liniami technologicznymi.</p>
 
+<center>
+<img src="grafika/firma.jpg">
+</center>
 
 
-<div align="center">
-<a class="example-image-link" href="grafika/budynek_full_size.png" data-lightbox="example-1"><img class="example-image" src="grafika/budynek.png"
-alt="thumb-1" width="460" height="318"/></a>
-
-<a class="example-image-link" href="grafika/budynek_z_lotu_ptaka_opisy_full_size.png" data-lightbox="example-2"><img class="example-image" src="grafika/budynek_z_lotu_ptaka.png"
-alt="thumb-1" width="460" height="318"/></a>
-</div><br>
+<br>
 
 Historia i wydarzenia z ¿ycia Firmy:<br><br>
 
