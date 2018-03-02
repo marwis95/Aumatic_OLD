@@ -172,12 +172,10 @@ Historia i wydarzenia z ¿ycia Firmy:<br><br>
 i monta¿em – SSP2<br>
 <b>2005</b> – Pierwszy kontrakt zagraniczny<br>
 <b>2006</b> – Uzyskanie Certyfikatu ISO 9001:2001 (obecnie ISO 9001:2008)<br>
-<b>2008</b> – Linia monta¿owa kolumny kierowniczej Mazda pokazana w TV - TVN Turbo program "Polak Potrafi" <br>(TRW Czechowice-Dziedzice) <a href="http://tvnplayer.pl/programy-online/polak-potrafi-odcinki,250/odcinek-12,S01E12,9374,ogladaj.html" target=_blank><img src="grafika/watch_film.gif"></a>(5:43 - 7:50) <br>
-<b>2012</b> – Linia monta¿owa modu³ów BMW pokazana w TV - TVN Turbo program "Polak Potrafi" (Valeo Skawina) <a href ="http://tvnplayer.pl/programy-online/polak-potrafi-odcinki,250/odcinek-4,S09E04,11708,ogladaj.html"
-target=_blank><img src="grafika/watch_film.gif"></a>(7:50 - 10:15)
-<br>
+<b>2008</b> – Linia monta¿owa kolumny kierowniczej Mazda pokazana w TV - TVN Turbo program "Polak Potrafi" <br>
+<b>2012</b> – Linia monta¿owa modu³ów BMW pokazana w TV - TVN Turbo program "Polak Potrafi" (Valeo Skawina) <br>
 <b>2012</b> – Migracja Dzia³u Konstrukcji Mechanicznej z programu Autodesk Inventor do SolidWorks<br>
-<b>2013</b> – 10-lecie dzia³ania Firmy <img src="grafika/tort.gif"><br>
+<b>2013</b> – 10-lecie dzia³ania Firmy <br>
 <b>2015</b> – Zrealizowaliœmy zlecenie o numerze A500 co oznacza, ¿e wyprodukowaliœmy ju¿ minimum 500 maszyn lub linii monta¿owych<br><br>
 
 <div style="width:700px; float:left">
